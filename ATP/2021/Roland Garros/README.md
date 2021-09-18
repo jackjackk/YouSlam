@@ -1,6 +1,6 @@
 
 # Roland Garros ATP - 2021
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                        | Title                                 | Channel                       | Likes   | Dislikes   |
 |--------:|:-----------------------------------------------------|:--------------------------------------|:------------------------------|:--------|:-----------|
@@ -13,12 +13,13 @@
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Djokovic%22+%22Berrettini%22+%222021%22+%22highlights%22)     
 
 ## Quarter-Final 2
-|   Views | Length & Link                                       | Title                                 | Channel                       | Likes   | Dislikes   |
-|--------:|:----------------------------------------------------|:--------------------------------------|:------------------------------|:--------|:-----------|
-| 1422754 | [4:17](https://www.youtube.com/watch?v=z25SFn0L20w) | Quarterfinals Highlights I            | Roland Garros                 | 11180   | 371        |
-|   23298 | [2:15](https://www.youtube.com/watch?v=Hc-G2k1m2uU) | Quarter Final Preview     Tennis News | TENNIS TALK with Cam Williams | 260     | 11         |
-|    6804 | [3:59](https://www.youtube.com/watch?v=cwyI8SMNWI4) | Tennis  Eurosport                     | Eurosport                     | -       | -          |
-|    1353 | [2:31](https://www.youtube.com/watch?v=B5WN4RJx0qQ) | Press Conference After Beating        | Sport HLts                    | 10      | 1          |
+|   Views | Length & Link                                       | Title                                                | Channel                       | Likes   | Dislikes   |
+|--------:|:----------------------------------------------------|:-----------------------------------------------------|:------------------------------|:--------|:-----------|
+| 1422754 | [4:17](https://www.youtube.com/watch?v=z25SFn0L20w) | Quarterfinals Highlights I                           | Roland Garros                 | 11180   | 371        |
+|  271144 | [3:29](https://www.youtube.com/watch?v=FyhGUPlEh10) | I can play against Djokovic next time but not     HD | TennisFans Productions        | 3067    | 62         |
+|   23298 | [2:15](https://www.youtube.com/watch?v=Hc-G2k1m2uU) | Quarter Final Preview     Tennis News                | TENNIS TALK with Cam Williams | 260     | 11         |
+|    6804 | [3:59](https://www.youtube.com/watch?v=cwyI8SMNWI4) | Tennis  Eurosport                                    | Eurosport                     | -       | -          |
+|    1353 | [2:31](https://www.youtube.com/watch?v=B5WN4RJx0qQ) | Press Conference After Beating                       | Sport HLts                    | 10      | 1          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Nadal%22+%22Schwartzman%22+%222021%22+%22highlights%22)     
 
@@ -46,32 +47,39 @@
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Tsitsipas%22+%22Medvedev%22+%222021%22+%22highlights%22)     
 
 ## Semi-Final 1
-|   Views | Length & Link                                        | Title                                  | Channel                | Likes   | Dislikes   |
-|--------:|:-----------------------------------------------------|:---------------------------------------|:-----------------------|:--------|:-----------|
-| 3804663 | [6:40](https://www.youtube.com/watch?v=3bnmkMx2x_8)  | Semifinal Highlights                   | Roland Garros          | 50887   | 1569       |
-|  495926 | [3:02](https://www.youtube.com/watch?v=rozA_r2O7ww)  | deserved to win    HD                  | Djoker Nole            | 6528    | 163        |
-|  323592 | [2:20](https://www.youtube.com/watch?v=9NPyXoSN1OQ)  | Clash of Champions I                   | Roland Garros          | 2662    | 114        |
-|   96206 | [0:46](https://www.youtube.com/watch?v=auY2L38yRr4)  | Preview Semifinals I                   | Roland Garros          | 797     | 22         |
-|   94346 | [4:35](https://www.youtube.com/watch?v=dtLSRQwpubU)  | Tennis  Eurosport                      | Eurosport              | -       | -          |
-|   11571 | [21:12](https://www.youtube.com/watch?v=8Ni5vkBFoGY) | Preview       SF                       | Gill Gross             | 402     | 29         |
-|    7712 | [4:19](https://www.youtube.com/watch?v=62ZcFTVkzxg)  | Rafa  Press Conference After losing To | Highlights & Reactions | 61      | 4          |
+|   Views | Length & Link                                        | Title                                                   | Channel                | Likes   | Dislikes   |
+|--------:|:-----------------------------------------------------|:--------------------------------------------------------|:-----------------------|:--------|:-----------|
+| 3804663 | [6:40](https://www.youtube.com/watch?v=3bnmkMx2x_8)  | Semifinal Highlights                                    | Roland Garros          | 50887   | 1569       |
+|  495926 | [3:02](https://www.youtube.com/watch?v=rozA_r2O7ww)  | deserved to win    HD                                   | Djoker Nole            | 6528    | 163        |
+|  323592 | [2:20](https://www.youtube.com/watch?v=9NPyXoSN1OQ)  | Clash of Champions I                                    | Roland Garros          | 2662    | 114        |
+|  253150 | [9:30](https://www.youtube.com/watch?v=MWrW5cSc-k0)  | Its hard to find words for     HD                       | Djoker Nole            | 3694    | 138        |
+|  247820 | [9:32](https://www.youtube.com/watch?v=7-eLyAJqT_k)  | I can beat      HD                                      | Djoker Nole            | 3369    | 204        |
+|  229272 | [6:16](https://www.youtube.com/watch?v=knWfBi_PTn8)  | No chance to win against  on clay    HD                 | Djoker Nole            | 2556    | 270        |
+|   96206 | [0:46](https://www.youtube.com/watch?v=auY2L38yRr4)  | Preview Semifinals I                                    | Roland Garros          | 797     | 22         |
+|   94346 | [4:35](https://www.youtube.com/watch?v=dtLSRQwpubU)  | Tennis  Eurosport                                       | Eurosport              | -       | -          |
+|   54886 | [25:54](https://www.youtube.com/watch?v=-Is2ixJr5dU) | Fallen King  The Story Of His Epic Duel Against      HD | Rafanatic20            | 900     | 41         |
+|   11571 | [21:12](https://www.youtube.com/watch?v=8Ni5vkBFoGY) | Preview       SF                                        | Gill Gross             | 402     | 29         |
+|    7712 | [4:19](https://www.youtube.com/watch?v=62ZcFTVkzxg)  | Rafa  Press Conference After losing To                  | Highlights & Reactions | 61      | 4          |
+|     473 | [2:14](https://www.youtube.com/watch?v=dwgQLc4iDYA)  | Semifinal    Match Preview                              | TennisCarnage          | 5       | 1          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Djokovic%22+%22Nadal%22+%222021%22+%22highlights%22)     
 
 ## Semi-Final 2
-|   Views | Length & Link                                       | Title                | Channel       | Likes   | Dislikes   |
-|--------:|:----------------------------------------------------|:---------------------|:--------------|:--------|:-----------|
-| 1127478 | [6:32](https://www.youtube.com/watch?v=xPCVKsWOxDM) | Semifinal Highlights | Roland Garros | 9087    | 214        |
-|   81117 | [1:36](https://www.youtube.com/watch?v=E03vdDsvvX4) | Preview Semifinals I | Roland Garros | 702     | 24         |
-|    8756 | [4:16](https://www.youtube.com/watch?v=Wu0ObrQTM0k) | Tennis  Eurosport    | Eurosport     | -       | -          |
+|   Views | Length & Link                                       | Title                              | Channel              | Likes   | Dislikes   |
+|--------:|:----------------------------------------------------|:-----------------------------------|:---------------------|:--------|:-----------|
+| 1127478 | [6:32](https://www.youtube.com/watch?v=xPCVKsWOxDM) | Semifinal Highlights               | Roland Garros        | 9087    | 214        |
+|   81117 | [1:36](https://www.youtube.com/watch?v=E03vdDsvvX4) | Preview Semifinals I               | Roland Garros        | 702     | 24         |
+|    8756 | [4:16](https://www.youtube.com/watch?v=Wu0ObrQTM0k) | Tennis  Eurosport                  | Eurosport            | -       | -          |
+|    5359 | [9:32](https://www.youtube.com/watch?v=4QmCgEnAJ3A) | NadalDjokovic   Semifinal  PREVIEW | GS Tennis News Today | 43      | 2          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Tsitsipas%22+%22Zverev%22+%222021%22+%22highlights%22)     
 
 ## Final
-|   Views | Length & Link                                       | Title             | Channel       | Likes   | Dislikes   |
-|--------:|:----------------------------------------------------|:------------------|:--------------|:--------|:-----------|
-| 2554106 | [8:14](https://www.youtube.com/watch?v=c7O8a68d_xM) | Highlights I      | Roland Garros | 30062   | 1019       |
-|  122622 | [1:17](https://www.youtube.com/watch?v=tgF3x5c8iNo) | Preview  I        | Roland Garros | 1175    | 35         |
-|   95995 | [5:37](https://www.youtube.com/watch?v=4ZPSm0-dODc) | Tennis  Eurosport | Eurosport     | -       | -          |
+|   Views | Length & Link                                       | Title                                         | Channel       | Likes   | Dislikes   |
+|--------:|:----------------------------------------------------|:----------------------------------------------|:--------------|:--------|:-----------|
+| 2554106 | [8:14](https://www.youtube.com/watch?v=c7O8a68d_xM) | Highlights I                                  | Roland Garros | 30062   | 1019       |
+|  226635 | [2:03](https://www.youtube.com/watch?v=o2fk4c7eV4Q) | came back to me like a different player    HD | Djoker Nole   | 2955    | 275        |
+|  122622 | [1:17](https://www.youtube.com/watch?v=tgF3x5c8iNo) | Preview  I                                    | Roland Garros | 1175    | 35         |
+|   95995 | [5:37](https://www.youtube.com/watch?v=4ZPSm0-dODc) | Tennis  Eurosport                             | Eurosport     | -       | -          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Djokovic%22+%22Tsitsipas%22+%222021%22+%22highlights%22)     

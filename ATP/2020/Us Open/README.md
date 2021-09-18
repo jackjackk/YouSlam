@@ -1,6 +1,6 @@
 
 # Us Open ATP - 2020
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                          | Title                                 | Channel                      |   Likes |   Dislikes |
 |--------:|:-------------------------------------------------------|:--------------------------------------|:-----------------------------|--------:|-----------:|
@@ -52,37 +52,46 @@
 |   29160 | [3:46:35](https://www.youtube.com/watch?v=ZG0sTOOD-AA) | LIVE Tennis PlaybyPlay           | Tennis Talk Plus             |     213 |         31 |
 |   20012 | [20:29](https://www.youtube.com/watch?v=VYm_zfJdLR4)   | Extended Highlights    Semifinal | US Open Tennis Championships |     294 |          8 |
 |    5663 | [3:23](https://www.youtube.com/watch?v=I-sBDJxzqjw)    | Highlights     Tennis  Eurosport | Eurosport                    |      62 |          0 |
+|      82 | [1:00](https://www.youtube.com/watch?v=veBw4v2wDQc)    | PREDICTION    SF                 | 1 min prediction             |       4 |          0 |
 |      65 | [24:27](https://www.youtube.com/watch?v=lHnEqV7nwg8)   |                                  | Trending Now                 |       1 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Zverev%22+%22Busta%22+%222020%22+%22highlights%22)     
 
 ## Semi-Final 2
-|   Views | Length & Link                                          | Title                            | Channel                      |   Likes |   Dislikes |
-|--------:|:-------------------------------------------------------|:---------------------------------|:-----------------------------|--------:|-----------:|
-|  821942 | [3:29](https://www.youtube.com/watch?v=Gy_vS5yfI2Q)    | Semifinal                        | US Open Tennis Championships |    6529 |        274 |
-|  301883 | [2:22:57](https://www.youtube.com/watch?v=vf5edF2BUpg) | Full Match    Semifinal          | US Open Tennis Championships |    1756 |         52 |
-|  201754 | [22:07](https://www.youtube.com/watch?v=jBRenhMvvU8)   | Extended Highlights    Semifinal | US Open Tennis Championships |    1564 |         44 |
-|  145240 | [5:11](https://www.youtube.com/watch?v=oTC2qDShGLA)    | Preview  Best shots at           | US Open Tennis Championships |     591 |         55 |
-|   33992 | [12:22](https://www.youtube.com/watch?v=T3JRmpjg-m8)   | second set tiebreak    Semifinal | US Open Tennis Championships |     292 |          4 |
-|   24779 | [9:12](https://www.youtube.com/watch?v=x4nqe4wRyrE)    | third set tiebreak    Semifinal  | US Open Tennis Championships |     269 |          4 |
-|   22697 | [3:08:12](https://www.youtube.com/watch?v=9o_N4oRVkmM) | LIVE Tennis PlaybyPlay           | Tennis Talk Plus             |     183 |         27 |
-|   12060 | [3:25](https://www.youtube.com/watch?v=FIWLm-Dpqjc)    | Highlights     Tennis  Eurosport | Eurosport                    |      94 |          0 |
+|   Views | Length & Link                                          | Title                                      | Channel                      |   Likes |   Dislikes |
+|--------:|:-------------------------------------------------------|:-------------------------------------------|:-----------------------------|--------:|-----------:|
+|  821942 | [3:29](https://www.youtube.com/watch?v=Gy_vS5yfI2Q)    | Semifinal                                  | US Open Tennis Championships |    6529 |        274 |
+|  301883 | [2:22:57](https://www.youtube.com/watch?v=vf5edF2BUpg) | Full Match    Semifinal                    | US Open Tennis Championships |    1756 |         52 |
+|  201754 | [22:07](https://www.youtube.com/watch?v=jBRenhMvvU8)   | Extended Highlights    Semifinal           | US Open Tennis Championships |    1564 |         44 |
+|  145240 | [5:11](https://www.youtube.com/watch?v=oTC2qDShGLA)    | Preview  Best shots at                     | US Open Tennis Championships |     591 |         55 |
+|   33992 | [12:22](https://www.youtube.com/watch?v=T3JRmpjg-m8)   | second set tiebreak    Semifinal           | US Open Tennis Championships |     292 |          4 |
+|   24779 | [9:12](https://www.youtube.com/watch?v=x4nqe4wRyrE)    | third set tiebreak    Semifinal            | US Open Tennis Championships |     269 |          4 |
+|   22697 | [3:08:12](https://www.youtube.com/watch?v=9o_N4oRVkmM) | LIVE Tennis PlaybyPlay                     | Tennis Talk Plus             |     183 |         27 |
+|   12060 | [3:25](https://www.youtube.com/watch?v=FIWLm-Dpqjc)    | Highlights     Tennis  Eurosport           | Eurosport                    |      94 |          0 |
+|     128 | [3:39](https://www.youtube.com/watch?v=tECyUu-JXHw)    | Analysis and Prediction  Sportzian  Zverev | Sportzian                    |      13 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Thiem%22+%22Medvedev%22+%222020%22+%22highlights%22)     
 
 ## Final
-|   Views | Length & Link                                          | Title                               | Channel                      |   Likes |   Dislikes |
-|--------:|:-------------------------------------------------------|:------------------------------------|:-----------------------------|--------:|-----------:|
-| 1562843 | [3:53](https://www.youtube.com/watch?v=RIevWd_4Sig)    |                                     | US Open Tennis Championships |   16532 |        529 |
-|  563830 | [3:19:15](https://www.youtube.com/watch?v=Mac4XI3ka5I) | Full Match                          | US Open Tennis Championships |    3243 |        127 |
-|  475816 | [39:50](https://www.youtube.com/watch?v=2WjkzGb4u84)   | Extended Highlights                 | US Open Tennis Championships |    4385 |        144 |
-|  388125 | [8:23](https://www.youtube.com/watch?v=Kp6aWlrec9I)    | Road to the                         | US Open Tennis Championships |    2272 |         94 |
-|  230387 | [10:56](https://www.youtube.com/watch?v=Szr0nmVUxjo)   | set tiebreak                        | US Open Tennis Championships |    2221 |         62 |
-|  159402 | [4:50:03](https://www.youtube.com/watch?v=nK0dliTaXKI) | LIVE Tennis PlaybyPlay              | Tennis Talk Plus             |    1472 |        155 |
-|  139930 | [10:37](https://www.youtube.com/watch?v=QUmbpEcVHrA)   | Preview  Best Shots at              | US Open Tennis Championships |     473 |         50 |
-|   30745 | [2:30](https://www.youtube.com/watch?v=bxy4lk2hBEI)    | and   walk onto Arthur Ashe for the | US Open Tennis Championships |     319 |         10 |
-|   20239 | [3:22](https://www.youtube.com/watch?v=79abji9QxFw)    | Highlights     Tennis  Eurosport    | Eurosport                    |     200 |          9 |
-|      48 | [3:22](https://www.youtube.com/watch?v=aVtReWzFTTw)    | men singles  Alex     Highlights    | Relix21                      |       2 |          0 |
-|      24 | [3:26](https://www.youtube.com/watch?v=alROtnHIFWE)    | A    Highlights                     | Tennis atp tour              |       3 |          0 |
+|   Views | Length & Link                                          | Title                                   | Channel                       | Likes   | Dislikes   |
+|--------:|:-------------------------------------------------------|:----------------------------------------|:------------------------------|:--------|:-----------|
+| 1562843 | [3:53](https://www.youtube.com/watch?v=RIevWd_4Sig)    |                                         | US Open Tennis Championships  | 16532   | 529        |
+|  563830 | [3:19:15](https://www.youtube.com/watch?v=Mac4XI3ka5I) | Full Match                              | US Open Tennis Championships  | 3243    | 127        |
+|  475816 | [39:50](https://www.youtube.com/watch?v=2WjkzGb4u84)   | Extended Highlights                     | US Open Tennis Championships  | 4385    | 144        |
+|  388125 | [8:23](https://www.youtube.com/watch?v=Kp6aWlrec9I)    | Road to the                             | US Open Tennis Championships  | 2272    | 94         |
+|  230387 | [10:56](https://www.youtube.com/watch?v=Szr0nmVUxjo)   | set tiebreak                            | US Open Tennis Championships  | 2221    | 62         |
+|  159402 | [4:50:03](https://www.youtube.com/watch?v=nK0dliTaXKI) | LIVE Tennis PlaybyPlay                  | Tennis Talk Plus              | 1472    | 155        |
+|  139930 | [10:37](https://www.youtube.com/watch?v=QUmbpEcVHrA)   | Preview  Best Shots at                  | US Open Tennis Championships  | 473     | 50         |
+|   30745 | [2:30](https://www.youtube.com/watch?v=bxy4lk2hBEI)    | and   walk onto Arthur Ashe for the     | US Open Tennis Championships  | 319     | 10         |
+|   20239 | [3:22](https://www.youtube.com/watch?v=79abji9QxFw)    | Highlights     Tennis  Eurosport        | Eurosport                     | 200     | 9          |
+|    2386 | [5:37](https://www.youtube.com/watch?v=KaEhDIusuDk)    | s Preview   THE SLICE                   | The Slice Tennis              | 74      | 3          |
+|    1586 | [2:23](https://www.youtube.com/watch?v=ZGoLrCiOog0)    | Lego Tennis Animation                   | BrickHario                    | 47      | 1          |
+|    1461 | [19:23](https://www.youtube.com/watch?v=3MtmWjd79Oo)   | Tennis Elbow                            | Tennis Experience             | 23      | 2          |
+|    1105 | [2:11](https://www.youtube.com/watch?v=IjCQzrkVbt0)    | responds2 BFF Sascha                    | Travel&SPORTS                 | -       | -          |
+|     474 | [11:24](https://www.youtube.com/watch?v=x-OkynE7wx4)   | wins the   Thrilling  against           | Tahmid Saleh Tennis           | 33      | 1          |
+|     354 | [2:21](https://www.youtube.com/watch?v=aHTKeZpzJN0)    | Our     Prediction  GTL Tennis Clips 7  | Game To Love - Tennis Podcast | 9       | 1          |
+|     102 | [7:09](https://www.youtube.com/watch?v=olo2RAaHp5w)    | Recap  Loses To  In 5th Set Tie Breaker | Troy Akin                     | 2       | 0          |
+|      48 | [3:22](https://www.youtube.com/watch?v=aVtReWzFTTw)    | men singles  Alex     Highlights        | Relix21                       | 2       | 0          |
+|      24 | [3:26](https://www.youtube.com/watch?v=alROtnHIFWE)    | A    Highlights                         | Tennis atp tour               | 3       | 0          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Thiem%22+%22Zverev%22+%222020%22+%22highlights%22)     

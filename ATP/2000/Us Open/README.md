@@ -1,6 +1,6 @@
 
 # Us Open ATP - 2000
-
+    
 ## Quarter-Final 1
 No video found
 
@@ -38,18 +38,21 @@ No video found
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Sampras%22+%22Hewitt%22+%222000%22+%22highlights%22)     
 
 ## Semi-Final 2
-No video found
+|   Views | Length & Link                                        | Title   | Channel   |   Likes |   Dislikes |
+|--------:|:-----------------------------------------------------|:--------|:----------|--------:|-----------:|
+|   10026 | [14:59](https://www.youtube.com/watch?v=SKKucgeK2ms) | SF HLs  | T V       |      24 |          2 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Safin%22+%22Martin%22+%222000%22+%22highlights%22)     
 
 ## Final
-|   Views | Length & Link                                          | Title                              | Channel                      |   Likes |   Dislikes |
-|--------:|:-------------------------------------------------------|:-----------------------------------|:-----------------------------|--------:|-----------:|
-|   67107 | [14:26](https://www.youtube.com/watch?v=J47DsTvjCrk)   | Highlights                         | JOTennisVid                  |     401 |         13 |
-|   21551 | [3:53](https://www.youtube.com/watch?v=oI_qNQrs6Pg)    | Beats                              | Immadi Uttej                 |      47 |          7 |
-|   16546 | [0:45](https://www.youtube.com/watch?v=zvofY3w4YDg)    | Spotlight   defeats   in           | US Open Tennis Championships |      90 |          2 |
-|    3664 | [2:10:31](https://www.youtube.com/watch?v=vDkXsd2Yhmo) |                                    | Teddysk89                    |      37 |          0 |
-|     201 | [13:00](https://www.youtube.com/watch?v=GlPGWDuHuII)   | s Highlights                       | All Things Tennis            |       3 |          1 |
-|     184 | [1:29:23](https://www.youtube.com/watch?v=RI4TafdwRJU) | TENNIS    SINGLES CHAMPIONSHIP  DE | 1990 Sports VHS              |       3 |          1 |
+|   Views | Length & Link                                          | Title                                 | Channel                      |   Likes |   Dislikes |
+|--------:|:-------------------------------------------------------|:--------------------------------------|:-----------------------------|--------:|-----------:|
+|   67107 | [14:26](https://www.youtube.com/watch?v=J47DsTvjCrk)   | Highlights                            | JOTennisVid                  |     401 |         13 |
+|   21551 | [3:53](https://www.youtube.com/watch?v=oI_qNQrs6Pg)    | Beats                                 | Immadi Uttej                 |      47 |          7 |
+|   16546 | [0:45](https://www.youtube.com/watch?v=zvofY3w4YDg)    | Spotlight   defeats   in              | US Open Tennis Championships |      90 |          2 |
+|    3797 | [1:23](https://www.youtube.com/watch?v=NZ_KeFom0SI)    | Tennis   UCLA July 27 2009 Rematch of | davidalain2                  |       3 |          0 |
+|    3664 | [2:10:31](https://www.youtube.com/watch?v=vDkXsd2Yhmo) |                                       | Teddysk89                    |      37 |          0 |
+|     716 | [5:05](https://www.youtube.com/watch?v=LhRdtiz9HCQ)    | great shots selection against         | Samprasfan1987               |       2 |          0 |
+|     184 | [1:29:23](https://www.youtube.com/watch?v=RI4TafdwRJU) | TENNIS    SINGLES CHAMPIONSHIP  DE    | 1990 Sports VHS              |       3 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Safin%22+%22Sampras%22+%222000%22+%22highlights%22)     

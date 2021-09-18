@@ -1,6 +1,6 @@
 
 # Wimbledon ATP - 2021
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                          | Title                                                             | Channel                       |   Likes |   Dislikes |
 |--------:|:-------------------------------------------------------|:------------------------------------------------------------------|:------------------------------|--------:|-----------:|
@@ -40,30 +40,38 @@
 |   98686 | [0:51](https://www.youtube.com/watch?v=8SP8LS_J_5w)    | Match Point Moment    Defeats               | Wimbledon                     | 1077    | 44         |
 |   37925 | [2:16:57](https://www.youtube.com/watch?v=Tby2JnPSe7c) | Quarter Finals   LIVE GTL Tennis Watchalong | Game To Love - Tennis Podcast | 365     | 46         |
 |    8050 | [7:44](https://www.youtube.com/watch?v=a77Bqt1-oA8)    | Court Level Centre Court  Highlights        | 英国駐在ch【わだけん】        | -       | -          |
+|    7933 | [12:52](https://www.youtube.com/watch?v=JAg4aU9qHE8)   | Reaction  LOSES to     THE SLICE            | The Slice Tennis              | 221     | 52         |
+|    1229 | [5:48](https://www.youtube.com/watch?v=T0hhQZK_ESo)    | knocked out by   in s                       | mr shefo                      | 5       | 4          |
 |     546 | [12:04](https://www.youtube.com/watch?v=DscgzTHb0eo)   | La fine di unepoca                          | Thenamebeforetokyo            | 14      | 2          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22wimbledon%22+%22Hurkacz%22+%22Federer%22+%222021%22+%22highlights%22)     
 
 ## Semi-Final 1
-|   Views | Length & Link                                          | Title                                    | Channel                       |   Likes |   Dislikes |
-|--------:|:-------------------------------------------------------|:-----------------------------------------|:------------------------------|--------:|-----------:|
-|  988096 | [6:16](https://www.youtube.com/watch?v=9Or0anXGNvk)    | Highlights                               | Wimbledon                     |   10074 |        366 |
-|   93533 | [3:35:40](https://www.youtube.com/watch?v=83sNozJCYNk) | LIVE Tennis PlaybyPlay                   | TENNIS TALK with Cam Williams |    1259 |         75 |
-|   76735 | [3:20:39](https://www.youtube.com/watch?v=QsSL2yTax_s) | LIVE GTL Tennis Watchalong               | Game To Love - Tennis Podcast |     602 |         59 |
-|   20693 | [3:03](https://www.youtube.com/watch?v=5ICua2G_Dsg)    | Semi Final Preview                       | TENNIS TALK with Cam Williams |     300 |         12 |
-|   15122 | [59:46](https://www.youtube.com/watch?v=nuy3M5uj3iw)   | Berrettini  Hurkacz   SF  Live PostMatch | Gill Gross                    |     450 |         16 |
-|   11381 | [11:56](https://www.youtube.com/watch?v=EQ4KsvYRstY)   | Preview       SF                         | Gill Gross                    |     403 |          3 |
+|   Views | Length & Link                                          | Title                                    | Channel                       | Likes   | Dislikes   |
+|--------:|:-------------------------------------------------------|:-----------------------------------------|:------------------------------|:--------|:-----------|
+|  988096 | [6:16](https://www.youtube.com/watch?v=9Or0anXGNvk)    | Highlights                               | Wimbledon                     | 10074   | 366        |
+|   93533 | [3:35:40](https://www.youtube.com/watch?v=83sNozJCYNk) | LIVE Tennis PlaybyPlay                   | TENNIS TALK with Cam Williams | 1259    | 75         |
+|   76735 | [3:20:39](https://www.youtube.com/watch?v=QsSL2yTax_s) | LIVE GTL Tennis Watchalong               | Game To Love - Tennis Podcast | 602     | 59         |
+|   20693 | [3:03](https://www.youtube.com/watch?v=5ICua2G_Dsg)    | Semi Final Preview                       | TENNIS TALK with Cam Williams | 300     | 12         |
+|   15122 | [59:46](https://www.youtube.com/watch?v=nuy3M5uj3iw)   | Berrettini  Hurkacz   SF  Live PostMatch | Gill Gross                    | 450     | 16         |
+|   11381 | [11:56](https://www.youtube.com/watch?v=EQ4KsvYRstY)   | Preview       SF                         | Gill Gross                    | 403     | 3          |
+|    9614 | [8:03](https://www.youtube.com/watch?v=REv6YT8HRn0)    | s Preview   Breakdown  Prediction        | Touchdowns To Home Runs       | -       | -          |
+|     320 | [6:53](https://www.youtube.com/watch?v=MDnbA_v2u8E)    |                                          | Emperor Gaming                | -       | -          |
+|     249 | [2:04](https://www.youtube.com/watch?v=iX9b0VFHBIk)    | and      Press Conference                | The Skill                     | 1       | 0          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22wimbledon%22+%22Djokovic%22+%22Shapovalov%22+%222021%22+%22highlights%22)     
 
 ## Semi-Final 2
-|   Views | Length & Link                                          | Title                                        | Channel                       |   Likes |   Dislikes |
-|--------:|:-------------------------------------------------------|:---------------------------------------------|:------------------------------|--------:|-----------:|
-|  485611 | [5:46](https://www.youtube.com/watch?v=V5rvHvHuH4k)    | Highlights                                   | Wimbledon                     |    4018 |        149 |
-|   70053 | [2:57:21](https://www.youtube.com/watch?v=5C06Ahg1nAk) | LIVE Tennis PlaybyPlay                       | TENNIS TALK with Cam Williams |     771 |         42 |
-|   15122 | [59:46](https://www.youtube.com/watch?v=nuy3M5uj3iw)   | Djokovic  Shapovalov      SF  Live PostMatch | Gill Gross                    |     450 |         16 |
-|   11303 | [3:05](https://www.youtube.com/watch?v=YFeY6RHVA7E)    | Semi Final Preview                           | TENNIS TALK with Cam Williams |     180 |         15 |
-|    5908 | [16:12](https://www.youtube.com/watch?v=0kISfaXjJj8)   | Preview       SF                             | Gill Gross                    |     223 |          3 |
+|   Views | Length & Link                                          | Title                                              | Channel                       |   Likes |   Dislikes |
+|--------:|:-------------------------------------------------------|:---------------------------------------------------|:------------------------------|--------:|-----------:|
+|  485611 | [5:46](https://www.youtube.com/watch?v=V5rvHvHuH4k)    | Highlights                                         | Wimbledon                     |    4018 |        149 |
+|   70053 | [2:57:21](https://www.youtube.com/watch?v=5C06Ahg1nAk) | LIVE Tennis PlaybyPlay                             | TENNIS TALK with Cam Williams |     771 |         42 |
+|   39116 | [2:59:38](https://www.youtube.com/watch?v=L8DeEWLYZT8) | LIVE GTL Tennis Watchalong                         | Game To Love - Tennis Podcast |     339 |         23 |
+|   15122 | [59:46](https://www.youtube.com/watch?v=nuy3M5uj3iw)   | Djokovic  Shapovalov      SF  Live PostMatch       | Gill Gross                    |     450 |         16 |
+|   11303 | [3:05](https://www.youtube.com/watch?v=YFeY6RHVA7E)    | Semi Final Preview                                 | TENNIS TALK with Cam Williams |     180 |         15 |
+|    5908 | [16:12](https://www.youtube.com/watch?v=0kISfaXjJj8)   | Preview       SF                                   | Gill Gross                    |     223 |          3 |
+|    1183 | [29:40](https://www.youtube.com/watch?v=Bym4FkQS1G4)   | il post partita                                    | Sportface news                |       4 |          1 |
+|     663 | [1:37:26](https://www.youtube.com/watch?v=xOSi4VRPKJI) | Tennis  Semifinals Live Chat  / DjokovicShapovalov | 5K Tennis                     |      50 |          2 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22wimbledon%22+%22Berrettini%22+%22Hurkacz%22+%222021%22+%22highlights%22)     
 
@@ -73,16 +81,18 @@
 | 1087188 | [5:33](https://www.youtube.com/watch?v=1IBhpowmI8s)    | Highlights                                                       | Wimbledon                     | 15607   | 390        |
 |  173722 | [4:02:22](https://www.youtube.com/watch?v=M90dW15ERtM) | LIVE GTL Tennis Watchalong                                       | Game To Love - Tennis Podcast | 1379    | 115        |
 |  132873 | [4:10:34](https://www.youtube.com/watch?v=TQ6ROrM3ne4) | Talking Tennis Stream                                            | tennis Brothers               | -       | -          |
+|   38500 | [3:25](https://www.youtube.com/watch?v=Qxv3K_d8API)    | Preview                                                          | TENNIS TALK with Cam Williams | 289     | 21         |
 |   22888 | [20:10](https://www.youtube.com/watch?v=_C6b1052jm8)   | Preview                                                          | Gill Gross                    | 568     | 11         |
-|   21362 | [45:25](https://www.youtube.com/watch?v=NnfSPiPJdY4)   | Match Reaction                                                   | Crunch Time Coaching          | 540     | 20         |
 |   15895 | [9:07](https://www.youtube.com/watch?v=SsVaA1XPO38)    | Extended  Preview                                                | TENNIS TALK with Cam Williams | 271     | 9          |
 |    7634 | [33:45](https://www.youtube.com/watch?v=7RhOZU3KOdE)   | Preview  Can  Stop   GTL Tennis Podcast 195                      | Game To Love - Tennis Podcast | 130     | 5          |
 |    5869 | [30:02](https://www.youtube.com/watch?v=HBozVro7qsg)   | The GOAT  wins his 20th major at   beats  ties Federer and Nadal | Inter Interi tennis           | 494     | 11         |
-|    3155 | [16:29](https://www.youtube.com/watch?v=u3A6a2OJMpE)   | Match Preview                                                    | Crunch Time Coaching          | 77      | 5          |
+|    5569 | [1:55](https://www.youtube.com/watch?v=_ZkgFPVyayE)    | Practice with  and Sinner                                        | NATDAX TENNIS                 | 50      | 1          |
 |    2985 | [45:04](https://www.youtube.com/watch?v=wNvSS5hWsx8)   | PREVIEW                                                          | Inter Interi tennis           | 137     | 8          |
 |    2909 | [1:09:20](https://www.youtube.com/watch?v=l-Ntc24aCIw) | Tennis   Live Chat   /   Nole goes for GOAT                      | 5K Tennis                     | 146     | 3          |
+|    2349 | [8:40](https://www.youtube.com/watch?v=2RYJLPhxPS0)    | Vlog   Martina Sroka                                             | Martina Sroka                 | 48      | 20         |
 |    1727 | [24:23](https://www.youtube.com/watch?v=ZccJlnFppmw)   | The GOAT Debate is now closed                                    | Abhiram Sharma Tennis         | 60      | 2          |
 |    1205 | [33:55](https://www.youtube.com/watch?v=KVtUO9IuFcI)   | AO Tennis 2          e  Highlights                               | Mike Player 81                | -       | -          |
 |     825 | [15:11](https://www.youtube.com/watch?v=t4HUq7ec2Dc)   | WINS 20th Slam   Reaction      Review                            | QualityShot                   | 31      | 3          |
+|     305 | [12:56](https://www.youtube.com/watch?v=hMXmh2n4RX0)   | Bundit in Oxford         EP20                                    | Bundit                        | 11      | 0          |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22wimbledon%22+%22Djokovic%22+%22Berrettini%22+%222021%22+%22highlights%22)     

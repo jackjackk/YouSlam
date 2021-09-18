@@ -1,6 +1,6 @@
 
 # Us Open ATP - 2002
-
+    
 ## Quarter-Final 1
 No video found
 
@@ -26,6 +26,8 @@ No video found
 |    1469 | [37:42](https://www.youtube.com/watch?v=Mz2aszp4ufk)   | QF  1/3                              | Samprasfan1987                          |      16 |          1 |
 |    1078 | [33:28](https://www.youtube.com/watch?v=_Lg80WQ1Tf8)   | QF  3/3                              | Samprasfan1987                          |      14 |          0 |
 |     957 | [22:06](https://www.youtube.com/watch?v=8FcxA26Lj0s)   | QF  2/3                              | Samprasfan1987                          |      12 |          0 |
+|     716 | [1:10](https://www.youtube.com/watch?v=2P6fbewOM5Q)    | / preview                            | mountgirl1                              |       1 |          0 |
+|     324 | [1:15:12](https://www.youtube.com/watch?v=qbaQ30cmAc8) | QF                                   | misanthropy520                          |       4 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Sampras%22+%22Roddick%22+%222002%22+%22highlights%22)     
 
@@ -61,11 +63,13 @@ No video found
 |  183574 | [6:13](https://www.youtube.com/watch?v=LC99glR53wE)    | serve and volley against       | agrodner                                |     320 |          3 |
 |  181046 | [19:38](https://www.youtube.com/watch?v=177xcoV9P7U)   | Highlight                      | Tennis Religion II                      |     494 |         27 |
 |  105548 | [2:10:52](https://www.youtube.com/watch?v=dsfpOqjtui8) | in vintage                     | United States Tennis Association (USTA) |     719 |         19 |
+|   68745 | [0:30](https://www.youtube.com/watch?v=y5dd6QlLPiY)    | Amazing Point                  | AmirJazo                                |      59 |          4 |
 |   52482 | [7:55](https://www.youtube.com/watch?v=L_CmSABgdZA)    | highlights                     | takezo - baumblatt                      |     113 |          3 |
 |   36601 | [7:17](https://www.youtube.com/watch?v=_zKCLaPPskI)    | rallying                       | agrodner                                |      37 |          1 |
 |   32280 | [2:56:20](https://www.youtube.com/watch?v=3GG-SsRM374) | A    P                         | arvind13                                |     188 |          9 |
 |   10251 | [2:35:53](https://www.youtube.com/watch?v=cVwEQ3Zvgc4) |                                | VoltagePurple                           |      74 |          3 |
 |    6515 | [19:11](https://www.youtube.com/watch?v=1CgzIbpgxVE)   | Highlights                     | JOTennisVid                             |      40 |          0 |
 |    4320 | [8:56](https://www.youtube.com/watch?v=5R9mJi0Xvxo)    | Highlights 169 High Definition | ChristianCheuqueOfficial                |      25 |          0 |
+|     615 | [3:17:53](https://www.youtube.com/watch?v=TRUiP-pSrn8) | s                              | Maximilien Delsarte                     |       4 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Sampras%22+%22Agassi%22+%222002%22+%22highlights%22)     

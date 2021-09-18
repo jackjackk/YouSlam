@@ -1,23 +1,21 @@
 
 # Us Open ATP - 2015
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                        | Title             | Channel                      |   Likes |   Dislikes |
 |--------:|:-----------------------------------------------------|:------------------|:-----------------------------|--------:|-----------:|
-|   14001 | [14:53](https://www.youtube.com/watch?v=RkXEfeqqt3k) | Highlights        | Sport HD                     |      46 |          3 |
 |    2509 | [12:44](https://www.youtube.com/watch?v=e9Duqtma8v0) |                   | SPORT_highlight              |      11 |          1 |
 |    1782 | [2:18](https://www.youtube.com/watch?v=vdWc4SUfEDM)  | Throwback      QF | US Open Tennis Championships |      19 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Djokovic%22+%22Lopez%22+%222015%22+%22highlights%22)     
 
 ## Quarter-Final 2
-|   Views | Length & Link                                        | Title                                | Channel          |   Likes |   Dislikes |
-|--------:|:-----------------------------------------------------|:-------------------------------------|:-----------------|--------:|-----------:|
-|    3525 | [1:41](https://www.youtube.com/watch?v=ROt67Vnk4uk)  | 0909                                 | Quant            |       4 |          0 |
-|     481 | [12:09](https://www.youtube.com/watch?v=dBf2M670-IQ) | Highlight                            | 4T Sports        |      11 |          0 |
-|     391 | [0:35](https://www.youtube.com/watch?v=g-3mz8ZdUD0)  | Jo wilfried    Amazing point  08/09/ | Messi Skills     |       2 |          1 |
-|      38 | [0:24](https://www.youtube.com/watch?v=A2BQJvoxl9U)  | Martin  wins game against   in       | Kyle1227         |       1 |          0 |
-|      35 | [1:05](https://www.youtube.com/watch?v=yKAghvP0ztc)  | INTERVIEW   Jo Wilfried              | US open 2015 New |       1 |          0 |
+|   Views | Length & Link                                        | Title                          | Channel          |   Likes |   Dislikes |
+|--------:|:-----------------------------------------------------|:-------------------------------|:-----------------|--------:|-----------:|
+|    3525 | [1:41](https://www.youtube.com/watch?v=ROt67Vnk4uk)  | 0909                           | Quant            |       4 |          0 |
+|     481 | [12:09](https://www.youtube.com/watch?v=dBf2M670-IQ) | Highlight                      | 4T Sports        |      11 |          0 |
+|      38 | [0:24](https://www.youtube.com/watch?v=A2BQJvoxl9U)  | Martin  wins game against   in | Kyle1227         |       1 |          0 |
+|      35 | [1:05](https://www.youtube.com/watch?v=yKAghvP0ztc)  | INTERVIEW   Jo Wilfried        | US open 2015 New |       1 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Cilic%22+%22Tsonga%22+%222015%22+%22highlights%22)     
 
@@ -37,7 +35,7 @@
 |    2016 | [8:53](https://www.youtube.com/watch?v=UQuyL-J6CKY)    | Highlights       Amazing One handed Backhand | XXX Tennis Channel |       6 |          4 |
 |    1921 | [8:02](https://www.youtube.com/watch?v=xeCUHyiSPVc)    | HIGHLIGHTS HD                                | Edward Alan        |       2 |          1 |
 |     969 | [6:59](https://www.youtube.com/watch?v=b4CODwkBz8s)    |                                              | Highlights™        |       5 |          0 |
-|     961 | [14:15](https://www.youtube.com/watch?v=cJuVs_9wXAA)   | Highlights                                   | Messi Skills       |       2 |          1 |
+|     346 | [2:14](https://www.youtube.com/watch?v=P29vmzzmpHI)    | Birds Eye View                               | Chaitu Satbhai     |       4 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Federer%22+%22Gasquet%22+%222015%22+%22highlights%22)     
 
@@ -51,12 +49,11 @@
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Djokovic%22+%22Cilic%22+%222015%22+%22highlights%22)     
 
 ## Semi-Final 2
-|   Views | Length & Link                                        | Title                                                        | Channel                             | Likes   | Dislikes   |
-|--------:|:-----------------------------------------------------|:-------------------------------------------------------------|:------------------------------------|:--------|:-----------|
-|   40556 | [12:20](https://www.youtube.com/watch?v=ZuSLPm5cgWs) | islas    Full Highlights                                     | US open 2015 New                    | 148     | 6          |
-|   19551 | [10:22](https://www.youtube.com/watch?v=hJWddUxyWBE) | SinglesSemifinals islas                                      | Chris Lin                           | 87      | 2          |
-|    4001 | [4:00](https://www.youtube.com/watch?v=fmVvJSArDss)  | INTERVIEW   islas                                            | SPORT_highlight                     | 11      | 1          |
-|     690 | [5:55](https://www.youtube.com/watch?v=29AZ4lVEp6s)  | DESTROYS  In   Semis To Set Up Super Final1 Djokovic  Report | John D. Villarreal Digital Ventures | -       | -          |
+|   Views | Length & Link                                        | Title                                                   | Channel                |   Likes |   Dislikes |
+|--------:|:-----------------------------------------------------|:--------------------------------------------------------|:-----------------------|--------:|-----------:|
+|   40556 | [12:20](https://www.youtube.com/watch?v=ZuSLPm5cgWs) | islas    Full Highlights                                | US open 2015 New       |     148 |          6 |
+|    5851 | [0:23](https://www.youtube.com/watch?v=GM9LxzmqBHA)  | videobombing  s Interview with a SABR    pimp my tennis | Funny Pimpmytennis.com |      38 |          2 |
+|    4001 | [4:00](https://www.youtube.com/watch?v=fmVvJSArDss)  | INTERVIEW   islas                                       | SPORT_highlight        |      11 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Federer%22+%22Wawrinka%22+%222015%22+%22highlights%22)     
 
@@ -67,6 +64,7 @@
 |  680019 | [34:34](https://www.youtube.com/watch?v=jELT0brG_NM)   |                                   | Bogdan                       |    3064 |        236 |
 |  251658 | [2:41:09](https://www.youtube.com/watch?v=634UMLDrVzc) | Full Match                        | US Open Tennis Championships |    2360 |         91 |
 |   66409 | [18:51](https://www.youtube.com/watch?v=fgvQKoBrQSQ)   | Highlights HD                     | TennisHighlightsHD           |     386 |         23 |
+|   14872 | [2:55](https://www.youtube.com/watch?v=Ut9HSl-d-JI)    | CEREMONY HD                       | Tennis HD 4                  |      47 |          6 |
 |    8505 | [7:23](https://www.youtube.com/watch?v=mMMUwfkTgTg)    | Tennis Elbow 2013      Highlights | LeoVeo                       |      63 |          4 |
 |    7201 | [0:31](https://www.youtube.com/watch?v=q2F4aZ4P9do)    | Match Point                       | Marjan Andonov               |      38 |          1 |
 |    6066 | [20:27](https://www.youtube.com/watch?v=uzb9Z9mfFdI)   | Highlights HD                     | Tennis HD 4                  |       5 |          0 |

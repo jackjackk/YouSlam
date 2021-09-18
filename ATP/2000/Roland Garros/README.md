@@ -1,6 +1,6 @@
 
 # Roland Garros ATP - 2000
-
+    
 ## Quarter-Final 1
 No video found
 
@@ -30,9 +30,11 @@ No video found
 |   Views | Length & Link                                        | Title                      | Channel          |   Likes |   Dislikes |
 |--------:|:-----------------------------------------------------|:---------------------------|:-----------------|--------:|-----------:|
 |  356307 | [6:00](https://www.youtube.com/watch?v=Wop-CfknUIc)  | Highlights   Semifinal I   | Roland Garros    |    2048 |         64 |
+|    3142 | [27:07](https://www.youtube.com/watch?v=LdUbqs30yJI) | SF Highlights              | JOTennisVid      |      47 |          1 |
 |     205 | [6:00](https://www.youtube.com/watch?v=bELFHeLT4wI)  | Semifinal I                | Canal SportLine  |       9 |          0 |
 |     150 | [29:17](https://www.youtube.com/watch?v=GtRiWASguR4) | semi final 3 set           | Sports Stars 90s |       3 |          0 |
 |     110 | [47:18](https://www.youtube.com/watch?v=ml9Es7OlGXs) | x  semi final primeiro set | Sports Stars 90s |       4 |          0 |
+|      85 | [20:06](https://www.youtube.com/watch?v=BbsCQhT3BUo) | 5 set 1/2 semi final       | Sports Stars 90s |       3 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Kuerten%22+%22Ferrero%22+%222000%22+%22highlights%22)     
 
@@ -40,9 +42,10 @@ No video found
 |   Views | Length & Link                                          | Title           | Channel                       |   Likes |   Dislikes |
 |--------:|:-------------------------------------------------------|:----------------|:------------------------------|--------:|-----------:|
 |  194151 | [3:53](https://www.youtube.com/watch?v=if4VQ0n76ic)    | Highlights    I | Roland Garros                 |    1181 |         16 |
-|   19679 | [1:34](https://www.youtube.com/watch?v=FAPWqSDSJOo)    |                 | neibaf3                       |      10 |          0 |
 |   14656 | [5:34](https://www.youtube.com/watch?v=ZPTAreEaTRA)    | 3x1             | Imagens Históricas do Esporte |      30 |         11 |
 |    3351 | [3:25:08](https://www.youtube.com/watch?v=so0f3x0_kIY) | x               | Guga Kuerten                  |      74 |          0 |
+|    1289 | [26:31](https://www.youtube.com/watch?v=Hjl6vqzSncE)   | Highlights      | JOTennisVid                   |      13 |          1 |
 |    1180 | [3:27:46](https://www.youtube.com/watch?v=Jmqun-Xzp80) | 3 x 1           | Gustavo Roman                 |      15 |          0 |
+|      33 | [34:18](https://www.youtube.com/watch?v=N3puF74FLQ0)   | first set       | Sports Stars 90s              |       1 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Kuerten%22+%22Norman%22+%222000%22+%22highlights%22)     

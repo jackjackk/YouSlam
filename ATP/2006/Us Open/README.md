@@ -1,12 +1,13 @@
 
 # Us Open ATP - 2006
-
+    
 ## Quarter-Final 1
-|   Views | Length & Link                                        | Title                                     | Channel         |   Likes |   Dislikes |
-|--------:|:-----------------------------------------------------|:------------------------------------------|:----------------|--------:|-----------:|
-|   70566 | [35:42](https://www.youtube.com/watch?v=Rm_Eo73iet0) | LOVELY TENNIS   QF   HighlightsInterviews | Yoeri Tennis II |     456 |         14 |
-|    2070 | [49:37](https://www.youtube.com/watch?v=bJATSdrb8H4) | LOVELY TENNIS  QF   HighlightsInterviews  | York Gemma      |      25 |          0 |
-|    1442 | [1:36](https://www.youtube.com/watch?v=nYnN0RfP7cU)  | Best Points    Quarters                   | AnandBS         |       2 |          0 |
+|   Views | Length & Link                                        | Title                                                 | Channel         |   Likes |   Dislikes |
+|--------:|:-----------------------------------------------------|:------------------------------------------------------|:----------------|--------:|-----------:|
+|   70566 | [35:42](https://www.youtube.com/watch?v=Rm_Eo73iet0) | LOVELY TENNIS   QF   HighlightsInterviews             | Yoeri Tennis II |     456 |         14 |
+|    2070 | [49:37](https://www.youtube.com/watch?v=bJATSdrb8H4) | LOVELY TENNIS  QF   HighlightsInterviews              | York Gemma      |      25 |          0 |
+|    1442 | [1:36](https://www.youtube.com/watch?v=nYnN0RfP7cU)  | Best Points    Quarters                               | AnandBS         |       2 |          0 |
+|     723 | [2:15](https://www.youtube.com/watch?v=bDaPB4qpShI)  | Super Saturday Promo  Feat  Roddick  Serena Sharapova | Yoeri Tennis II |      19 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Federer%22+%22Blake%22+%222006%22+%22highlights%22)     
 
@@ -38,6 +39,7 @@ No video found
 |    3632 | [15:39](https://www.youtube.com/watch?v=OJiF5yUGcuo) | Semifinal   Rare Highlights                | Yoeri Tennis II              |      44 |          2 |
 |    1184 | [37:50](https://www.youtube.com/watch?v=AYdJv_Piz6Q) | SUPER RARE    SF Bluray Highlights CO OP   | York Gemma                   |       8 |          3 |
 |     858 | [1:58](https://www.youtube.com/watch?v=KgpLRzWtaHw)  | Best Points    Semis                       | AnandBS                      |       4 |          0 |
+|     143 | [20:39](https://www.youtube.com/watch?v=cGfbC5njeNM) | Semifinal   Rare Highlights                | York Gemma                   |       1 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Federer%22+%22Davydenko%22+%222006%22+%22highlights%22)     
 
@@ -53,8 +55,11 @@ No video found
 |--------:|:-------------------------------------------------------|:-----------------------|:-----------------------------|--------:|-----------:|
 |  229494 | [8:56](https://www.youtube.com/watch?v=zcr8fMWpo5Y)    | 1/2                    | I'mAlex                      |     335 |         21 |
 |  136138 | [2:29:16](https://www.youtube.com/watch?v=yhFXsQcnXsE) | Full Match             | US Open Tennis Championships |    1062 |         34 |
+|  130567 | [5:35](https://www.youtube.com/watch?v=1AXetq5dV20)    | 2/2                    | I'mAlex                      |     160 |         41 |
 |    7594 | [2:48:28](https://www.youtube.com/watch?v=W2VW9tttL8k) |                        | Crisu Cris                   |      22 |          2 |
 |    2319 | [1:00](https://www.youtube.com/watch?v=G5j4VfLknMg)    | Highlights     Tennis  | Funk Tennis                  |      41 |          5 |
+|    1816 | [10:39](https://www.youtube.com/watch?v=qiMkI8iwypA)   | 1212                   | Amantesdel tenis             |       4 |          0 |
+|    1206 | [10:35](https://www.youtube.com/watch?v=lX1Y4dI8GwM)   | 112                    | Amantesdel tenis             |       2 |          0 |
 |    1143 | [2:06:48](https://www.youtube.com/watch?v=92T-COkTerc) | Full match  HD quality | Ball Tracking TV             |       6 |          2 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Federer%22+%22Roddick%22+%222006%22+%22highlights%22)     

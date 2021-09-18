@@ -1,11 +1,10 @@
 
 # Us Open ATP - 2017
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                       | Title                          | Channel        |   Likes |   Dislikes |
 |--------:|:----------------------------------------------------|:-------------------------------|:---------------|--------:|-----------:|
 |    1130 | [1:38](https://www.youtube.com/watch?v=b-Iobpd71cQ) | Day 8 Court Report    Pliskova | Tennis Channel |       5 |          0 |
-|     163 | [0:45](https://www.youtube.com/watch?v=KSTTTm0jT2Q) |                                | Daily Sports   |       2 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Nadal%22+%22Rublev%22+%222017%22+%22highlights%22)     
 
@@ -16,7 +15,9 @@
 |  208763 | [1:22](https://www.youtube.com/watch?v=3M7-5uSAKlE)    | Preview                                  | US Open Tennis Championships |     202 |         14 |
 |   49820 | [2:20:17](https://www.youtube.com/watch?v=Q5WjrTBMzMg) | in a mouthwatering match    Quarterfinal | US Open Tennis Championships |     642 |         15 |
 |   37689 | [0:38](https://www.youtube.com/watch?v=W3VQKok3HTI)    | Practice                                 | US Open Tennis Championships |      31 |          9 |
+|    9860 | [0:26](https://www.youtube.com/watch?v=gQCvkymIk3c)    | El misil de                              | Jere Gongora                 |      67 |          1 |
 |     414 | [5:28](https://www.youtube.com/watch?v=0dgBB8i3eUg)    | First Practice   HD                      | Skill & Goal Highlights      |       5 |          0 |
+|     323 | [3:19](https://www.youtube.com/watch?v=CLFsRI4Zf-I)    | SENZA CUORE                              | iVIDEOblogger                |       7 |          2 |
 |      55 | [1:14](https://www.youtube.com/watch?v=wWVy-MwbEM8)    | Highlights   Overpowers                  | betty                        |       4 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Potro%22+%22Federer%22+%222017%22+%22highlights%22)     
@@ -40,6 +41,7 @@ No video found
 |   53075 | [0:47](https://www.youtube.com/watch?v=PSl0ReRU6dg)    | Match Preview                  | US Open Tennis Championships |      91 |          9 |
 |   52973 | [0:47](https://www.youtube.com/watch?v=t2wH1bucIQs)    | Match Preview                  | US Open Tennis Championships |     107 |          6 |
 |   31778 | [1:01](https://www.youtube.com/watch?v=420ilM13iJ8)    | 2009                           | US Open Tennis Championships |      46 |          9 |
+|    7987 | [2:19](https://www.youtube.com/watch?v=QFei3DC61bg)    | SEMIFINALS My Fan Experience   | Clelia Mattana               |      95 |          0 |
 |    6002 | [2:23](https://www.youtube.com/watch?v=lii1-GcUzJQ)    | Beats    Semi Final HIGHLIGHTS | Pure Tennis                  |      43 |          0 |
 |     162 | [1:13](https://www.youtube.com/watch?v=gF2dgTQdbko)    | Highlights  Defeats            | betty                        |       3 |          0 |
 
@@ -66,7 +68,9 @@ No video found
 |   32934 | [14:53](https://www.youtube.com/watch?v=k9Tb6Q2WJKQ)   | HIGHLIGHTS     HD 60fps          | Vamos Nadal                  |     296 |         15 |
 |    3243 | [1:43](https://www.youtube.com/watch?v=HFO0ushkKXk)    | Court Report                     | Tennis Channel               |      14 |          0 |
 |    3061 | [1:42](https://www.youtube.com/watch?v=GR0jOxU4UCU)    | Semis Court Report               | Tennis Channel               |      12 |          0 |
+|    1891 | [3:21](https://www.youtube.com/watch?v=In4ky94BTSU)    | Rafa  winning moment of          | ThatsTohi Channel            |       4 |          3 |
 |    1574 | [0:40](https://www.youtube.com/watch?v=7k39qegJWTc)    | Drop ShotRafa  in   Championship | US Open Tennis Championships |      24 |          0 |
 |     403 | [28:53](https://www.youtube.com/watch?v=DQvbXp99iXM)   |                                  | kB algerie                   |       3 |          0 |
+|      49 | [0:13](https://www.youtube.com/watch?v=sgsV3DJDDhk)    | HOT SHOT                         | Nadalismo 6                  |       4 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Nadal%22+%22Anderson%22+%222017%22+%22highlights%22)     

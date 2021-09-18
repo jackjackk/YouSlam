@@ -1,6 +1,6 @@
 
 # Australian Open ATP - 2006
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                          | Title   | Channel      |   Likes |   Dislikes |
 |--------:|:-------------------------------------------------------|:--------|:-------------|--------:|-----------:|
@@ -27,18 +27,22 @@ No video found
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22australian+open%22+%22Baghdatis%22+%22Ljubicic%22+%222006%22+%22highlights%22)     
 
 ## Semi-Final 1
-|   Views | Length & Link                                          | Title   | Channel              |   Likes |   Dislikes |
-|--------:|:-------------------------------------------------------|:--------|:---------------------|--------:|-----------:|
-|     702 | [2:46:35](https://www.youtube.com/watch?v=mDZlQgr55Yg) | SF      | Nicolás Torti Garcia |       9 |          1 |
+|   Views | Length & Link                                          | Title         | Channel              |   Likes |   Dislikes |
+|--------:|:-------------------------------------------------------|:--------------|:---------------------|--------:|-----------:|
+|   13315 | [9:27](https://www.youtube.com/watch?v=juDCAJ-LDNw)    | Best s points | Alex RF              |     132 |          2 |
+|    7264 | [4:46](https://www.youtube.com/watch?v=CaR4odE5PI8)    | SF            | kazuya112            |      22 |          0 |
+|     702 | [2:46:35](https://www.youtube.com/watch?v=mDZlQgr55Yg) | SF            | Nicolás Torti Garcia |       9 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22australian+open%22+%22Federer%22+%22Kiefer%22+%222006%22+%22highlights%22)     
 
 ## Semi-Final 2
-|   Views | Length & Link                                        | Title                             | Channel            |   Likes |   Dislikes |
-|--------:|:-----------------------------------------------------|:----------------------------------|:-------------------|--------:|-----------:|
-|   39470 | [1:29](https://www.youtube.com/watch?v=zk3tk4saF9Q)  | Semifinal Highlights              | Australian Open TV |     104 |          3 |
-|   32772 | [22:36](https://www.youtube.com/watch?v=5MlUZXPij6s) | Semifinal  AO Classics            | Australian Open TV |     374 |         10 |
-|    1937 | [1:37](https://www.youtube.com/watch?v=j19JOcohXBM)  | Semi Final  Kia Open Drive   2018 | Australian Open TV |      18 |          0 |
+|   Views | Length & Link                                          | Title                             | Channel            |   Likes |   Dislikes |
+|--------:|:-------------------------------------------------------|:----------------------------------|:-------------------|--------:|-----------:|
+|   39470 | [1:29](https://www.youtube.com/watch?v=zk3tk4saF9Q)    | Semifinal Highlights              | Australian Open TV |     104 |          3 |
+|   32772 | [22:36](https://www.youtube.com/watch?v=5MlUZXPij6s)   | Semifinal   Classics              | Australian Open TV |     374 |         10 |
+|    1937 | [1:37](https://www.youtube.com/watch?v=j19JOcohXBM)    | Semi Final  Kia Open Drive   2018 | Australian Open TV |      18 |          0 |
+|     990 | [1:47:45](https://www.youtube.com/watch?v=qJl8Lnm3Ff8) | SF   Part 2                       | TGM Tennis         |      12 |          1 |
+|     943 | [1:36:36](https://www.youtube.com/watch?v=JeLxpN7hSDA) | SF   Part 1                       | TGM Tennis         |       7 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22australian+open%22+%22Baghdatis%22+%22Nalbandian%22+%222006%22+%22highlights%22)     
 

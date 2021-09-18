@@ -1,6 +1,6 @@
 
 # Us Open ATP - 2003
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                          | Title   | Channel       |   Likes |   Dislikes |
 |--------:|:-------------------------------------------------------|:--------|:--------------|--------:|-----------:|
@@ -47,8 +47,10 @@ No video found
 |--------:|:-------------------------------------------------------|:----------------------------|:-------------------|--------:|-----------:|
 |   45574 | [27:08](https://www.youtube.com/watch?v=PUyR4CmDkSY)   | Highlight                   | Tennis Religion II |     198 |          3 |
 |   23463 | [16:00](https://www.youtube.com/watch?v=lsuIbzt6iX8)   | Highlights                  | JOTennisVid        |     180 |          4 |
+|    8233 | [1:46:28](https://www.youtube.com/watch?v=BwhNMTDfaqg) |                             | Tennis Classic     |      31 |          0 |
 |    4970 | [17:28](https://www.youtube.com/watch?v=WmUXt0kM5Fc)   | Highlights                  | JOTennisVid        |      74 |          0 |
 |    1634 | [1:46:28](https://www.youtube.com/watch?v=qU9VzQeK6V8) |                             | Tennis Court       |       3 |          0 |
+|    1602 | [8:49](https://www.youtube.com/watch?v=M3t1HbKYgD8)    |                             | Sindy Bau          |       4 |          0 |
 |    1534 | [1:43:55](https://www.youtube.com/watch?v=wVlNEn0SuTE) | Tennis Channel 720p version | Crisu Cris         |      30 |          0 |
 |     548 | [8:49](https://www.youtube.com/watch?v=mBkhh2Sq3OY)    |                             | Claudine Kron      |       2 |          0 |
 

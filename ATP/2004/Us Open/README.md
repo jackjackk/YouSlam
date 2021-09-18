@@ -1,6 +1,6 @@
 
 # Us Open ATP - 2004
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                          | Title                                                         | Channel                      |   Likes |   Dislikes |
 |--------:|:-------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------|--------:|-----------:|
@@ -11,6 +11,9 @@
 |    7745 | [32:03](https://www.youtube.com/watch?v=3IjvQJtRDgs)   | and  play through HURRICANE  QF   Highlights                  | Yoeri Tennis II              |      95 |          0 |
 |    4231 | [21:27](https://www.youtube.com/watch?v=L7BAES39U6c)   | QF Highlights                                                 | JOTennisVid                  |      51 |          3 |
 |    2548 | [2:30:10](https://www.youtube.com/watch?v=kHu_Bm5OtHE) |                                                               | VoltagePurple                |      20 |          1 |
+|    2255 | [0:30](https://www.youtube.com/watch?v=HFmh18JFaGg)    | Amazing  drop shot against                                    | GERLIDO                      |       4 |          0 |
+|     217 | [0:21](https://www.youtube.com/watch?v=QJ8E4_16o1Q)    | Two Amazing  consecutive forehands against                    | GERLIDO                      |       1 |          0 |
+|      13 | [3:23](https://www.youtube.com/watch?v=kh34W2Vm0Os)    | classic  w   quarters                                         | akshaj krishnan              |       1 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22us+open%22+%22Federer%22+%22Agassi%22+%222004%22+%22highlights%22)     
 

@@ -1,19 +1,20 @@
 
 # Roland Garros ATP - 2012
-
+    
 ## Quarter-Final 1
 |   Views | Length & Link                                        | Title                                   | Channel          |   Likes |   Dislikes |
 |--------:|:-----------------------------------------------------|:----------------------------------------|:-----------------|--------:|-----------:|
-|  111496 | [37:43](https://www.youtube.com/watch?v=3E8nRaS89kg) | RG Classics                             | Roland Garros    |    1529 |         33 |
+|  111496 | [37:43](https://www.youtube.com/watch?v=3E8nRaS89kg) | Classics                                | Roland Garros    |    1529 |         33 |
 |   38434 | [33:45](https://www.youtube.com/watch?v=yOnry8P3x44) | Jo Wilfried    Quarter Final Highlights | nikoipo          |     214 |          5 |
 |   12273 | [2:38](https://www.youtube.com/watch?v=3Vre_toBmz8)  | Quarter Finals  Highlights  HQ          | MrTENNISUpLOADER |       4 |          2 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Djokovic%22+%22Tsonga%22+%222012%22+%22highlights%22)     
 
 ## Quarter-Final 2
-|   Views | Length & Link                                        | Title         | Channel   |   Likes |   Dislikes |
-|--------:|:-----------------------------------------------------|:--------------|:----------|--------:|-----------:|
-|  362238 | [27:51](https://www.youtube.com/watch?v=7pwML9YQpNE) | QF Highlights | Rafa98    |    1636 |         73 |
+|   Views | Length & Link                                        | Title                              | Channel        |   Likes |   Dislikes |
+|--------:|:-----------------------------------------------------|:-----------------------------------|:---------------|--------:|-----------:|
+|  362238 | [27:51](https://www.youtube.com/watch?v=7pwML9YQpNE) | QF Highlights                      | Rafa98         |    1636 |         73 |
+|    2388 | [2:05](https://www.youtube.com/watch?v=HfVi5Wp1zX0)  | / match point HD  65182259 JERCINE | ZIDANE ARSENAL |       2 |          0 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Federer%22+%22Potro%22+%222012%22+%22highlights%22)     
 
@@ -30,9 +31,10 @@ No video found
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Nadal%22+%22Almagro%22+%222012%22+%22highlights%22)     
 
 ## Semi-Final 1
-|   Views | Length & Link                                        | Title                      | Channel        |   Likes |   Dislikes |
-|--------:|:-----------------------------------------------------|:---------------------------|:---------------|--------:|-----------:|
-|    1214 | [16:27](https://www.youtube.com/watch?v=5zeia8vmf84) | SF Highlights HD   YouTube | Charlie Sports |       8 |          1 |
+|   Views | Length & Link                                          | Title                      | Channel        |   Likes |   Dislikes |
+|--------:|:-------------------------------------------------------|:---------------------------|:---------------|--------:|-----------:|
+|  170966 | [2:05:16](https://www.youtube.com/watch?v=fJMjuCgxCLY) | 70    SF                   | djoko fun      |     930 |         62 |
+|    1214 | [16:27](https://www.youtube.com/watch?v=5zeia8vmf84)   | SF Highlights HD   YouTube | Charlie Sports |       8 |          1 |
 
 [Search for more videos on YouTube](https://www.youtube.com/results?search_query=%22roland+garros%22+%22Djokovic%22+%22Federer%22+%222012%22+%22highlights%22)     
 
